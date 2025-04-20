@@ -1,6 +1,6 @@
 # MSCS-632-M50_Assignment8
 This repo is Assignment 8 for Advanced Programming Languages (MSCS-632-M50)
-## Below are the samole queries | output
+## Below are the sample queries | output
 - parent(john, michael). | true.
 - grandparent(john, tom). | true.
 - sibling(michael, linda). | true.
