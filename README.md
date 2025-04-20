@@ -1,5 +1,6 @@
 # MSCS-632-M50_Assignment8
 This repo is Assignment 8 for Advanced Programming Languages (MSCS-632-M50)
+- tree.pl is the family tree implementation
 ## Below are the sample queries | output
 - parent(john, michael). | true.
 - grandparent(john, tom). | true.
